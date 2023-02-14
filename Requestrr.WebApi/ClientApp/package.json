@@ -26,30 +26,35 @@
     "not op_mini all"
   ],
   "dependencies": {
-    "chart.js": "2.7.3",
+    "@typescript-eslint/eslint-plugin": "^5.52.0",
+    "@typescript-eslint/parser": "^5.52.0",
+    "chart.js": "^2.9.4",
     "classnames": "2.2.6",
-    "moment": "2.24.0",
-    "node-sass": "4.12.0",
+    "eslint": "^8.34.0",
+    "moment": "^2.29.4",
+    "node-gyp": "^9.3.1",
+    "node-sass": "^7.0.0",
     "nouislider": "13.1.1",
-    "react": "16.8.4",
+    "react": "^16.8.4",
     "react-chartjs-2": "2.7.4",
     "react-copy-to-clipboard": "5.0.1",
     "react-datetime": "2.16.3",
-    "react-dom": "16.8.4",
+    "react-dom": "^16.8.4",
     "react-dropdown-select": "^4.1.1",
-    "react-google-maps": "9.4.5",
+    "react-google-maps": "^9.4.5",
     "react-loader-spinner": "^3.1.5",
     "react-redux": "^5.1.1",
     "react-router-dom": "4.3.1",
-    "react-scripts": "2.1.8",
+    "react-scripts": "^5.0.1",
     "reactstrap": "7.1.0",
     "redux": "^3.7.2",
-    "redux-thunk": "^2.2.0"
+    "redux-thunk": "2.2.0",
+    "typescript-eslint-parser": "^22.0.0"
   },
   "devDependencies": {
     "@types/googlemaps": "3.30.18",
     "@types/markerclustererplus": "2.1.33",
     "@types/react": "16.8.7",
-    "typescript": "3.3.3333"
+    "typescript": "^3.9.10"
   }
 }
